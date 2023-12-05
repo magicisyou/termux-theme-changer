@@ -25,7 +25,7 @@ This tool helps to change termux theme from the command line.
 Clone the repository
 
 ```
-git clone https://github.com/youaremagic/termux-theme-changer
+git clone https://github.com/magicisyou/termux-theme-changer
 ```
 
 Change directory
